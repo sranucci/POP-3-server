@@ -1,0 +1,23 @@
+From: john.doe@example.com
+To: sranucci@itba.edu.ar
+Subject: Hello Jane
+Date: Mon, 3 June 2023 15:30:00 +0000
+
+Hello Jane,
+
+I hope this email finds you well. Just wanted to say hi and see how you're doing. It's been a while since we last caught up, and I thought it would be nice to drop you a message. Life has been quite busy on my end, with work and personal commitments keeping me occupied.
+
+I recently started a new project at my workplace, and it's been both exciting and challenging. The team is working on developing a cutting-edge web application that aims to revolutionize the way people interact with technology. It's a lot of hard work, but we're all passionate about the project, and I believe it has great potential.
+
+Apart from work, I've been trying to find some time for myself. I took a short vacation last month to a beautiful beach destination. The warm sun, sandy beaches, and soothing ocean waves were exactly what I needed to recharge my batteries. It was a fantastic experience, and I even tried out some adventurous water sports like jet skiing and snorkeling. I wish you could have been there with me; we would have had a blast!
+
+Speaking of adventures, I remember our hiking trips back in college. Those were some of the best memories I have. The thrill of conquering steep trails, reaching the mountaintop, and being rewarded with breathtaking views—it was truly exhilarating. We should plan another hiking trip sometime soon and relive those incredible moments.
+
+On a different note, have you seen the latest movie that everyone's talking about? I watched it last weekend, and it blew my mind. The plot twists, the incredible cinematography, and the exceptional performances by the cast left me speechless. I won't spoil it for you, but make sure to add it to your must-watch list.
+
+Well, Jane, I don't want to take up too much of your time. I know you're busy too, and there are probably a million things on your plate. But remember, it's important to take a step back from the chaos and enjoy the simple pleasures in life. So, take a break, go for a walk in nature, or spend quality time with loved ones. And whenever you need someone to talk to or share your thoughts with, know that I'm here for you.
+
+Wishing you all the success and happiness in the world.
+
+Best regards,
+John Doe

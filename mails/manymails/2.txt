@@ -1,0 +1,11 @@
+From: john.doe@example.com
+To: sranucci@itba.edu.ar
+Subject: Hello Mary
+Date: Mon, 3 June 2023 15:30:00 +0000
+
+Hello Jane,
+
+I hope this email finds you well. Just wanted to say hi and see how you're doing.
+
+Best regards,
+John Doe
